@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Privacy Policy for Bitara - Crypto Enthusiast Tools">
+    <meta name="author" content="Bitara Team">
+    <title>Privacy Policy - Bitara</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to an external CSS file if you have one -->
+</head>
+<body>
+    <header>
+        <h1>Privacy Policy</h1>
+        <p>Effective Date: January 3, 2025</p>
+    </header>
+
+    <section>
+        <h2>Introduction</h2>
+        <p>Welcome to Bitara. This Privacy Policy outlines how we collect, use, and protect your data when using our services, which include File Manager, Address Manager, Music, and Trade Logging features. By using our services, you agree to the terms outlined in this policy.</p>
+    </section>
+
+    <section>
+        <h2>Information We Collect</h2>
+        <p>We collect the following types of information to provide our services effectively:</p>
+        <ul>
+            <li><strong>Personal Information:</strong> Includes details like your email address and username for account creation and identification purposes.</li>
+            <li><strong>Trade Data:</strong> Logs related to your crypto trades, including timestamps, trade types, and other relevant details.</li>
+            <li><strong>Address Data:</strong> Wallet addresses that you manage within our Address Manager feature.</li>
+            <li><strong>Music Files:</strong> Any music or file uploaded through the Music feature will be stored temporarily to enable playback.</li>
+            <li><strong>Usage Data:</strong> Information about how you interact with our services, including logs of your file uploads, downloads, and other actions.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>How We Use Your Information</h2>
+        <p>We use the collected information for the following purposes:</p>
+        <ul>
+            <li><strong>To Provide Our Services:</strong> We use your data to facilitate features such as file management, trade logging, and music playback.</li>
+            <li><strong>To Improve Our Services:</strong> We analyze usage data to enhance user experience and develop new features.</li>
+            <li><strong>To Communicate with You:</strong> We may use your email address to send you important updates regarding your account or our services.</li>
+            <li><strong>To Comply with Legal Requirements:</strong> We may use your information to comply with applicable laws or regulations.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>How We Protect Your Information</h2>
+        <p>We implement security measures to protect your data from unauthorized access, alteration, or deletion. However, no method of transmission over the internet or electronic storage is 100% secure. While we strive to protect your personal information, we cannot guarantee its absolute security.</p>
+    </section>
+
+    <section>
+        <h2>Third-Party Services</h2>
+        <p>We may use third-party services to help operate our website or enhance our features. These third parties may have access to your personal information but are obligated not to disclose or use it for any other purpose. We ensure that these third parties comply with appropriate privacy standards.</p>
+    </section>
+
+    <section>
+        <h2>Your Rights and Choices</h2>
+        <p>You have the following rights regarding your data:</p>
+        <ul>
+            <li><strong>Access:</strong> You can request a copy of the personal data we have collected about you.</li>
+            <li><strong>Correction:</strong> You can request corrections to inaccurate or incomplete information.</li>
+            <li><strong>Deletion:</strong> You can request that we delete your personal data, subject to legal obligations.</li>
+            <li><strong>Opt-Out:</strong> You can opt-out of receiving promotional emails by following the unsubscribe link in the emails.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Children’s Privacy</h2>
+        <p>Our services are not intended for individuals under the age of 18. We do not knowingly collect personal information from children. If you believe we have collected information from a child, please contact us, and we will take steps to remove it.</p>
+    </section>
+
+    <section>
+        <h2>Changes to This Privacy Policy</h2>
+        <p>We may update this Privacy Policy from time to time. When we make significant changes, we will notify you via email or through a prominent notice on our website. We encourage you to review this policy periodically for any updates.</p>
+    </section>
+
+    <section>
+        <h2>Contact Us</h2>
+        <p>If you have any questions or concerns about this Privacy Policy, please contact us at:</p>
+        <p><strong>Email:</strong> support@bitara.com</p>
+        <p><strong>Website:</strong> www.bitara.org</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Bitara. All rights reserved.</p>
+    </footer>
+</body>
+</html>
